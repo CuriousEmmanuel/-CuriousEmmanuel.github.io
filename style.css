@@ -226,22 +226,27 @@ progress span{
   width: 60%;
 }
 #contact{
-  padding: 50px 70px;
+  padding: 10px 5px;
   background: linear-gradient(160deg, #e74c3c 45%, white 0%);
   overflow-x: hidden;
 }
 .contactRow{
   display: flex;
   justify-content: space-around;
-  align-items: center;
+  align-items: left;
 
 }
 .contactImg{
-  flex-basis: 50%;
+  flex-basis: 30%;
+  align align-items: left;
+  margin-left: -40%;
+
 }
 .contactForm{
   flex-basis: 50%;
-  text-align: center;
+  text-align: left;
+  margin-left: -50%;
+
 }
 form input,textarea{
   width: 60%;
