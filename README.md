@@ -1,2 +1,3 @@
-# Levelhub
-##### it is an application software that will help students acress the world to connect with jobs and other talents across the world
+#OPEN source
+
+###this is an open source website anyone can copy and modify for personal or comercial uses
