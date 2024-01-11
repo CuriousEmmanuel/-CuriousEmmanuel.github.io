@@ -1,3 +1,2 @@
-# OPEN source webpage
-
-### this is an open source website anyone can copy and modify for personal or comercial uses
+# NOTE
+### Read and 7nderatand the licence agreement before trying anything out
