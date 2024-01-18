@@ -1,2 +1,2 @@
 # NOTE
-### Read and 7nderatand the licence agreement before trying anything out
+### Read and underatand the licence agreement before trying anything out
