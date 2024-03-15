@@ -8,4 +8,4 @@
 # NOTE
 ### Read and underatand the licence agreement before trying anything out
 
-https://drive.google.com/file/d/10g2KaeXcMJ2pGMuyUB7XGQ_gK4ke18NC/view?usp=drivesdk
+https://drive.google.com/file/d/10g2KaeXcMJ2pGMuyUB7XGQ_gK4ke18NC/view?usp=drivesdk 
