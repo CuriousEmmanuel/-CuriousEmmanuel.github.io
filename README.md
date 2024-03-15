@@ -7,3 +7,5 @@
 
 # NOTE
 ### Read and underatand the licence agreement before trying anything out
+
+https://drive.google.com/file/d/10cFq4HrZDer1aXylrr_Urg8mOkaIwKkW/view?usp=drivesdk
