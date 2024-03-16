@@ -1,7 +1,7 @@
 # personal website
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/curiousemmanuel.github.io/)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://www.curiousemmanuel.github.io)
-[![Author](https://img.shields.io/badge/Author-Aditya%20Vikram%20Singh-blue.svg)](https://www.linkedin.com/in/AVS1508/)
+[![Author](https://img.shields.io/badge/Author-curious%20emmanuel%20Singh-blue.svg)](https://www.)
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-24%20March%202022-yellow.svg)](https://github.com/curiousemmanuel.github.io/)
 
 
